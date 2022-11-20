@@ -1,6 +1,6 @@
 ### Fala, meu povo !! Me chamo Gabriel. Sejam bem-vindos ao meu perfil.
 
-- 🔭 Atualmente Cursando Análise e Desenvolvimetno de Sistemas.
+- 🔭 Atualmente Cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Estudando Html, Css, JavaScript.
 
 <div style="display: inline_block">
